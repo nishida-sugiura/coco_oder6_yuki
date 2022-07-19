@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    var liffId = "1657196041-vDWabr0g";
+    var liffId = "1657313823-VWk8Yr5E";
     initializeLiff(liffId);
 })
 
