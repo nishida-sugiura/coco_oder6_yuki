@@ -133,7 +133,7 @@ footer .pr {display: block;font-size: 80%;}
 	color: #22ac38;		/*文字色*/
 	font-size: 120%;	/*文字サイズ*/
 	text-align: center;	/*文字をセンタリング*/
-	height: 2em;		/*高さ*/
+	height: 4em;		/*高さ*/
 	overflow: hidden;	/*高さを超えた場合に非表示にする*/
                   padding: 10px 20px 20px;
 
