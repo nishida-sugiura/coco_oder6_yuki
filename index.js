@@ -36,7 +36,7 @@ $(function () {
         
     let msg={};
         
-        var [price1,price2,price3,price4,price5,price6] = [200,400,500,500,800,1000];    //　メダカの値段 １．spread sheet medaka、２．の値と一致させてください
+        var [price1,price2,price3,price4,price5,price6] = [500,500,500,500,800,1000];    //　メダカの値段 １．spread sheet medaka、２．の値と一致させてください
         
         var kk = [[breed1,num1,price1],
               [breed2,num2,price2],
